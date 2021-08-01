@@ -1,4 +1,4 @@
-![](./Capstone.pdf)
+![A](./Capstone.pdf){width=100% height=400}
 
 Required Libraries
 - pandas
