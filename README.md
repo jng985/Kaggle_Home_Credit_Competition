@@ -1,4 +1,5 @@
-![](Capstone.pdf)
+![](./Capstone.pdf)
+
 Required Libraries
 - pandas
 - numpy
