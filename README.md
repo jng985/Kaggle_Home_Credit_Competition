@@ -1,3 +1,5 @@
+![](logo.png)
+
 # Home Credit Default Risk
 
 Home Credit Group is an international consumer finance provider that focuses on
