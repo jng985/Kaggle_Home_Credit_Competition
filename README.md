@@ -38,5 +38,5 @@ by the final model.
 
 # Report
 
-
+![](./pngs/Capstone (1)-01.png)
 
