@@ -36,7 +36,24 @@ by the final model.
 
 ---
 
-# Report
+# Project Report
 
-![](./pngs/Capstone (1)-01.png)
+![](pngs2/01.png)
+![](pngs2/02.png)
+![](pngs2/03.png)
+![](pngs2/04.png)
+![](pngs2/05.png)
+![](pngs2/06.png)
+![](pngs2/07.png)
+![](pngs2/08.png)
+![](pngs2/09.png)
+![](pngs2/10.png)
+![](pngs2/11.png)
+![](pngs2/12.png)
+![](pngs2/13.png)
+![](pngs2/14.png)
+![](pngs2/15.png)
+![](pngs2/16.png)
+![](pngs2/17.png)
+![](pngs2/18.png)
 
